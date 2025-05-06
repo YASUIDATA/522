@@ -1,1 +1,2 @@
 vless://71f43e1b-15a5-4dda-aa51-c0c8d6d16200@5.104.80.188:24702?type=tcp&path=%2F&host=www.softbank.jp&headerType=http&security=none#SB%20Slow-TTD%20522
+vless://eba70e6f-f76b-4058-80d6-cf970bd64fd5@45.32.15.107:20808?type=tcp&path=%2F&host=www.softbank.jp&headerType=http&security=none#Fast%20SB-TTD%20522
